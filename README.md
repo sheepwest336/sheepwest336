@@ -1,4 +1,5 @@
 ## Hi there 👋
+This is a GitHub account for college classes-Open Source SW.
 
 <!--
 **sheepwest336/sheepwest336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
